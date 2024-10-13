@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming (obviously)
 - 🌱 I’m currently learning game development
 - 💔 I’m not looking to collaborate
-- 📫 How to reach me: well i assume people whos seeing this knows who i am irl
+- 📫 How to reach me: my discord is ###### #### go figure it out
 - 🤓 Pronouns: me
 - ⚡ Fun fact: sslpeing ist gut 👍
 
