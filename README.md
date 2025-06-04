@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-
+<img src=image.png alt="vibe coding lol">
 
 <!---
 sahduw/sahduw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
